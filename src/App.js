@@ -32,6 +32,14 @@ const App = () => {
           <code>git remote add origin git@github.com:username/repo.git</code>
         </li>
         <li>
+          <p>Add all to staging area</p>
+          <code>git add .</code>
+        </li>
+        <li>
+          <p>Commit</p>
+          <code>git commit -m "Commit message"</code>
+        </li>
+        <li>
           <p>Deploy</p>
           <code>npm deploy</code>
         </li>
