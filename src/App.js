@@ -41,7 +41,11 @@ const App = () => {
         </li>
         <li>
           <p>Deploy</p>
-          <code>npm deploy</code>
+          <code>npm run deploy</code>
+        </li>
+        <li>
+          <p>Push to remote</p>
+          <code>git push -u origin master</code>
         </li>
       </ul>
     </div>
