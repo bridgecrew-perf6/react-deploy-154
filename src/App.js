@@ -47,6 +47,9 @@ const App = () => {
           <p>Push to remote</p>
           <code>git push -u origin master</code>
         </li>
+        <li>
+          <p>Go to https://username.github.io/repo</p>
+        </li>
       </ul>
     </div>
   );
